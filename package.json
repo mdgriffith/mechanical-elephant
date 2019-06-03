@@ -12,6 +12,7 @@
     "build": "sh scripts/build.sh"
   },
   "devDependencies": {
+    "elm": "^0.19.0-no-deps",
     "elm-live": "^3.4.1",
     "google-closure-compiler": "^20190528.0.0"
   }
