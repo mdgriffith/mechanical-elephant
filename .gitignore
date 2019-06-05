@@ -7,3 +7,4 @@ node_modules
 public
 assets/elm.js
 assets/elm.min.js
+assets/elm.min.js.gz
